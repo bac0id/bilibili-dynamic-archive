@@ -13,4 +13,3 @@ class Archiver(abc.ABC):
             bool: Is successfully saved?
         """
         pass
-

@@ -1,15 +1,27 @@
 import asyncio
 import sys
-import time
-from collections import deque
 
 from dotenv import load_dotenv
 
-from bilibili_dynamic_archive.archiver.save_page_now_archiver import (
-    SavePageNowArchiver,
-)
-from bilibili_dynamic_archive.bilibili_api.dynamic import Dynamic, ProxyDynamic
-from bilibili_dynamic_archive.bilibili_api.user import Nemo2011BilibiliUser
+from .archiver.archive_task_dispatcher import ArchiveTaskDispatcher
+from .archiver.save_page_now_archiver import SavePageNowArchiver
+from .bilibili_api.dynamic import Dynamic, ProxyDynamic
+from .bilibili_api.user import Nemo2011BilibiliUser
+
+
+def parse_argument():
+    if len(sys.argv) < 2:
+        print("""Usage: bili-archive <uid>""")
+        sys.exit(1)
+
+    try:
+        uid = int(sys.argv[1])
+    except ValueError:
+        print(
+            f"Error: Invalid UID provided. '{sys.argv[1]}' is not an integer."
+        )
+        sys.exit(1)
+    return uid
 
 
 async def get_dynamics(uid) -> list[Dynamic]:
@@ -33,64 +45,10 @@ def get_urls_to_save(dynamics: list[Dynamic]) -> list[str]:
     return list(all_urls)
 
 
-def save_url(url, archiver) -> bool:
-    is_successfully_saved = False
-    try:
-        is_successfully_saved = archiver.save(url)
-    except Exception as e:
-        print(e)
-    return is_successfully_saved
-
-
-def save_urls(urls) -> list:
+def save_urls(urls: list):
     archiver = SavePageNowArchiver()
-    while len(urls) > 0:
-        failed_urls = []
-
-        for url in urls:
-            print(f"Saving {url}")
-            is_successfully_saved = save_url(url, archiver)
-            if is_successfully_saved:
-                print(f"Saved")
-            else:
-                print(f"Failed")
-                failed_urls.append(url)
-            time.sleep(4)
-
-        print(f"Count of failed urls: {len(failed_urls)}")
-        print(f"Failed urls: {failed_urls}")
-        time.sleep(4)
-
-        urls = failed_urls
-    return failed_urls
-
-
-def save_urls_recycle(urls):
-    archiver = SavePageNowArchiver()
-    urls = deque(urls)
-    while len(urls) > 0:
-        url = urls.popleft()
-        is_successfully_saved = save_url(url, archiver)
-        if is_successfully_saved:
-            print(f"Saved")
-        else:
-            print(f"Failed")
-            urls.append(url)
-
-
-def parse_argument():
-    if len(sys.argv) < 2:
-        print("""Usage: bili-archive <uid>""")
-        sys.exit(1)
-
-    try:
-        uid = int(sys.argv[1])
-    except ValueError:
-        print(
-            f"Error: Invalid UID provided. '{sys.argv[1]}' is not an integer."
-        )
-        sys.exit(1)
-    return uid
+    dispatcher = ArchiveTaskDispatcher(archiver=archiver, urls=urls)
+    dispatcher.start()
 
 
 async def main_async():
