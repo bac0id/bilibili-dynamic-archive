@@ -1,0 +1,2 @@
+python-dotenv==1.1.0
+save_page_now_api==0.1.0

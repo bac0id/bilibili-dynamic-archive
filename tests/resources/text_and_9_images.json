@@ -1,0 +1,306 @@
+{
+    "basic": {
+        "comment_id_str": "333977750",
+        "comment_type": 11,
+        "jump_url": "//www.bilibili.com/opus/998107282443075606",
+        "like_icon": {
+            "action_url": "",
+            "end_url": "",
+            "id": 0,
+            "start_url": ""
+        },
+        "rid_str": "333977750"
+    },
+    "id_str": "998107282443075606",
+    "modules": {
+        "module_author": {
+            "avatar": {
+                "container_size": {
+                    "height": 1.375,
+                    "width": 1.375
+                },
+                "fallback_layers": {
+                    "is_critical_group": true,
+                    "layers": [
+                        {
+                            "general_spec": {
+                                "pos_spec": {
+                                    "axis_x": 0.6875,
+                                    "axis_y": 0.6875,
+                                    "coordinate_pos": 2
+                                },
+                                "render_spec": {
+                                    "opacity": 1
+                                },
+                                "size_spec": {
+                                    "height": 0.787,
+                                    "width": 0.787
+                                }
+                            },
+                            "layer_config": {
+                                "is_critical": true,
+                                "tags": {
+                                    "AVATAR_LAYER": {},
+                                    "GENERAL_CFG": {
+                                        "config_type": 1,
+                                        "general_config": {
+                                            "web_css_style": {
+                                                "borderRadius": "50%"
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "resource": {
+                                "res_image": {
+                                    "image_src": {
+                                        "placeholder": 6,
+                                        "remote": {
+                                            "bfs_style": "widget-layer-avatar",
+                                            "url": "https://i0.hdslb.com/bfs/face/f17654fdda12c7fe0823952b9b936f05dd8efdcb.jpg"
+                                        },
+                                        "src_type": 1
+                                    }
+                                },
+                                "res_type": 3
+                            },
+                            "visible": true
+                        },
+                        {
+                            "general_spec": {
+                                "pos_spec": {
+                                    "axis_x": 0.6875,
+                                    "axis_y": 0.6875,
+                                    "coordinate_pos": 2
+                                },
+                                "render_spec": {
+                                    "opacity": 1
+                                },
+                                "size_spec": {
+                                    "height": 1.375,
+                                    "width": 1.375
+                                }
+                            },
+                            "layer_config": {
+                                "tags": {
+                                    "PENDENT_LAYER": {}
+                                }
+                            },
+                            "resource": {
+                                "res_image": {
+                                    "image_src": {
+                                        "remote": {
+                                            "bfs_style": "widget-layer-avatar",
+                                            "url": "https://i0.hdslb.com/bfs/garb/item/d8f6dec3bd0bcdb09fcfd99fba620aa7da91dd8e.png"
+                                        },
+                                        "src_type": 1
+                                    }
+                                },
+                                "res_type": 3
+                            },
+                            "visible": true
+                        }
+                    ]
+                },
+                "mid": "9871569"
+            },
+            "decoration_card": {
+                "big_card_url": "https://i0.hdslb.com/bfs/garb/a166d49f38302874836f9b0308d281acbc1e5d71.png",
+                "card_type": 2,
+                "card_type_name": "免费",
+                "card_url": "https://i0.hdslb.com/bfs/garb/a166d49f38302874836f9b0308d281acbc1e5d71.png",
+                "fan": {
+                    "color": "#A63B47",
+                    "color_format": {
+                        "colors": [
+                            "#A63B47FF",
+                            "#A63B47FF"
+                        ],
+                        "end_point": "0,100",
+                        "gradients": [
+                            0,
+                            100
+                        ],
+                        "start_point": "0,0"
+                    },
+                    "is_fan": 1,
+                    "name": "碧蓝航线礼服主题",
+                    "num_desc": "007183",
+                    "number": 7183
+                },
+                "id": 1690185158001,
+                "image_enhance": "https://i0.hdslb.com/bfs/garb/a166d49f38302874836f9b0308d281acbc1e5d71.png",
+                "item_id": 1690185158001,
+                "jump_url": "https://www.bilibili.com/h5/mall/equity-link/collect-home?item_id=1690185158001\u0026isdiy=0\u0026part=card\u0026from=post\u0026f_source=garb\u0026vmid=9871569\u0026native.theme=1\u0026navhide=1",
+                "name": "碧蓝航线礼服主题-动态卡片粉丝"
+            },
+            "face": "https://i0.hdslb.com/bfs/face/f17654fdda12c7fe0823952b9b936f05dd8efdcb.jpg",
+            "face_nft": false,
+            "following": null,
+            "jump_url": "//space.bilibili.com/9871569/dynamic",
+            "label": "",
+            "mid": 9871569,
+            "name": "小逝lullaby",
+            "official_verify": {
+                "desc": "",
+                "type": -1
+            },
+            "pendant": {
+                "expire": 0,
+                "image": "https://i0.hdslb.com/bfs/garb/item/d8f6dec3bd0bcdb09fcfd99fba620aa7da91dd8e.png",
+                "image_enhance": "https://i0.hdslb.com/bfs/garb/item/d8f6dec3bd0bcdb09fcfd99fba620aa7da91dd8e.png",
+                "image_enhance_frame": "",
+                "n_pid": 3057,
+                "name": "还有醒着的么",
+                "pid": 3057
+            },
+            "pub_action": "",
+            "pub_location_text": "",
+            "pub_time": "2024年11月10日",
+            "pub_ts": 1731228361,
+            "type": "AUTHOR_TYPE_NORMAL",
+            "vip": {
+                "avatar_subscript": 0,
+                "avatar_subscript_url": "",
+                "due_date": 1710000000000,
+                "label": {
+                    "bg_color": "",
+                    "bg_style": 0,
+                    "border_color": "",
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/d7b702ef65a976b20ed854cbd04cb9e27341bb79.png",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/KJunwh19T5.png",
+                    "label_theme": "",
+                    "path": "",
+                    "text": "",
+                    "text_color": "",
+                    "use_img_label": true
+                },
+                "nickname_color": "",
+                "status": 0,
+                "theme_type": 0,
+                "type": 1
+            }
+        },
+        "module_dynamic": {
+            "additional": null,
+            "desc": null,
+            "major": {
+                "opus": {
+                    "fold_action": [
+                        "展开",
+                        "收起"
+                    ],
+                    "jump_url": "//www.bilibili.com/opus/998107282443075606",
+                    "pics": [
+                        {
+                            "height": 9812,
+                            "live_url": null,
+                            "size": 4320.80859375,
+                            "url": "http://i0.hdslb.com/bfs/new_dyn/25722f29c5b9cbbb38af568858875dd49871569.jpg",
+                            "width": 975
+                        },
+                        {
+                            "height": 1978,
+                            "live_url": null,
+                            "size": 536.189453125,
+                            "url": "http://i0.hdslb.com/bfs/new_dyn/6419134022386cb38da34e46ca3d18909871569.jpg",
+                            "width": 1250
+                        },
+                        {
+                            "height": 1920,
+                            "live_url": null,
+                            "size": 1447.466796875,
+                            "url": "http://i0.hdslb.com/bfs/new_dyn/8a3951830c75ed970a1cf7838fa69b279871569.jpg",
+                            "width": 1080
+                        },
+                        {
+                            "height": 1754,
+                            "live_url": null,
+                            "size": 1510.611328125,
+                            "url": "http://i0.hdslb.com/bfs/new_dyn/3313ba39daa219c921425832702616969871569.jpg",
+                            "width": 1240
+                        },
+                        {
+                            "height": 1793,
+                            "live_url": null,
+                            "size": 1955.474609375,
+                            "url": "http://i0.hdslb.com/bfs/new_dyn/d26649ca4ad06d11bfdafa94c755b69c9871569.jpg",
+                            "width": 1084
+                        },
+                        {
+                            "height": 1877,
+                            "live_url": null,
+                            "size": 1659.0615234375,
+                            "url": "http://i0.hdslb.com/bfs/new_dyn/1920ffa9bd1ac8e392f0a8f62fe53bd19871569.jpg",
+                            "width": 1240
+                        },
+                        {
+                            "height": 2079,
+                            "live_url": null,
+                            "size": 1694.642578125,
+                            "url": "http://i0.hdslb.com/bfs/new_dyn/54235b092bdc9398127edf3e27f1f7bf9871569.jpg",
+                            "width": 1345
+                        },
+                        {
+                            "height": 1080,
+                            "live_url": null,
+                            "size": 1534.77734375,
+                            "url": "http://i0.hdslb.com/bfs/new_dyn/902bd38f1ba9041e3c66a735df22ada89871569.jpg",
+                            "width": 1920
+                        },
+                        {
+                            "height": 1080,
+                            "live_url": null,
+                            "size": 2465.482421875,
+                            "url": "http://i0.hdslb.com/bfs/new_dyn/949072661b64e9c05e044b1d2928f36f9871569.jpg",
+                            "width": 1920
+                        }
+                    ],
+                    "summary": {
+                        "rich_text_nodes": [
+                            {
+                                "orig_text": "传说中的我好像很擅长画小清新白丝美少女插画的样子，但其实接稿类型还挺多的。终于把价目表做出来了，欢迎约稿！\n\n想要看更多例图的请看我的画+主页，约稿请加企鹅号 1461195244 或者把需求和报价发送到邮箱 1461195244@ qq.com。在那之前一定要阅读页面最底端的说明。（想走平台也可以和我说）\n\n放一些我的作品~",
+                                "text": "传说中的我好像很擅长画小清新白丝美少女插画的样子，但其实接稿类型还挺多的。终于把价目表做出来了，欢迎约稿！\n\n想要看更多例图的请看我的画+主页，约稿请加企鹅号 1461195244 或者把需求和报价发送到邮箱 1461195244@ qq.com。在那之前一定要阅读页面最底端的说明。（想走平台也可以和我说）\n\n放一些我的作品~",
+                                "type": "RICH_TEXT_NODE_TYPE_TEXT"
+                            }
+                        ],
+                        "text": "传说中的我好像很擅长画小清新白丝美少女插画的样子，但其实接稿类型还挺多的。终于把价目表做出来了，欢迎约稿！\n\n想要看更多例图的请看我的画+主页，约稿请加企鹅号 1461195244 或者把需求和报价发送到邮箱 1461195244@ qq.com。在那之前一定要阅读页面最底端的说明。（想走平台也可以和我说）\n\n放一些我的作品~"
+                    },
+                    "title": "约稿价目表"
+                },
+                "type": "MAJOR_TYPE_OPUS"
+            },
+            "topic": null
+        },
+        "module_more": {
+            "three_point_items": [
+                {
+                    "label": "举报",
+                    "type": "THREE_POINT_REPORT"
+                }
+            ]
+        },
+        "module_stat": {
+            "comment": {
+                "count": 4,
+                "forbidden": false
+            },
+            "forward": {
+                "count": 10,
+                "forbidden": false
+            },
+            "like": {
+                "count": 299,
+                "forbidden": false,
+                "status": false
+            }
+        },
+        "module_tag": {
+            "text": "置顶"
+        }
+    },
+    "type": "DYNAMIC_TYPE_DRAW",
+    "visible": true
+}

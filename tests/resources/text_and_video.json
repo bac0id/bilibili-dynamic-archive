@@ -1,0 +1,227 @@
+{
+    "basic": {
+        "comment_id_str": "114307132033724",
+        "comment_type": 1,
+        "like_icon": {
+            "action_url": "",
+            "end_url": "",
+            "id": 0,
+            "start_url": ""
+        },
+        "rid_str": "114307132033724"
+    },
+    "id_str": "1053776797431234564",
+    "modules": {
+        "module_author": {
+            "avatar": {
+                "container_size": {
+                    "height": 1.35,
+                    "width": 1.35
+                },
+                "fallback_layers": {
+                    "is_critical_group": true,
+                    "layers": [
+                        {
+                            "general_spec": {
+                                "pos_spec": {
+                                    "axis_x": 0.675,
+                                    "axis_y": 0.675,
+                                    "coordinate_pos": 2
+                                },
+                                "render_spec": {
+                                    "opacity": 1
+                                },
+                                "size_spec": {
+                                    "height": 1,
+                                    "width": 1
+                                }
+                            },
+                            "layer_config": {
+                                "is_critical": true,
+                                "tags": {
+                                    "AVATAR_LAYER": {},
+                                    "GENERAL_CFG": {
+                                        "config_type": 1,
+                                        "general_config": {
+                                            "web_css_style": {
+                                                "borderRadius": "50%"
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "resource": {
+                                "res_image": {
+                                    "image_src": {
+                                        "placeholder": 6,
+                                        "remote": {
+                                            "bfs_style": "widget-layer-avatar",
+                                            "url": "https://i0.hdslb.com/bfs/face/c7c7a85ebb0fc0cffd40de516190be2d819b389d.jpg"
+                                        },
+                                        "src_type": 1
+                                    }
+                                },
+                                "res_type": 3
+                            },
+                            "visible": true
+                        },
+                        {
+                            "general_spec": {
+                                "pos_spec": {
+                                    "axis_x": 0.8000000000000002,
+                                    "axis_y": 0.8000000000000002,
+                                    "coordinate_pos": 1
+                                },
+                                "render_spec": {
+                                    "opacity": 1
+                                },
+                                "size_spec": {
+                                    "height": 0.41666666666666663,
+                                    "width": 0.41666666666666663
+                                }
+                            },
+                            "layer_config": {
+                                "tags": {
+                                    "GENERAL_CFG": {
+                                        "config_type": 1,
+                                        "general_config": {
+                                            "web_css_style": {
+                                                "background-color": "rgb(255,255,255)",
+                                                "border": "2px solid rgba(255,255,255,1)",
+                                                "borderRadius": "50%",
+                                                "boxSizing": "border-box"
+                                            }
+                                        }
+                                    },
+                                    "ICON_LAYER": {}
+                                }
+                            },
+                            "resource": {
+                                "res_image": {
+                                    "image_src": {
+                                        "local": 1,
+                                        "src_type": 2
+                                    }
+                                },
+                                "res_type": 3
+                            },
+                            "visible": true
+                        }
+                    ]
+                },
+                "mid": "66951624"
+            },
+            "face": "https://i0.hdslb.com/bfs/face/c7c7a85ebb0fc0cffd40de516190be2d819b389d.jpg",
+            "face_nft": false,
+            "following": null,
+            "jump_url": "//space.bilibili.com/66951624/dynamic",
+            "label": "",
+            "mid": 66951624,
+            "name": "Xikii厂长",
+            "official_verify": {
+                "desc": "",
+                "type": -1
+            },
+            "pendant": {
+                "expire": 0,
+                "image": "",
+                "image_enhance": "",
+                "image_enhance_frame": "",
+                "n_pid": 0,
+                "name": "",
+                "pid": 0
+            },
+            "pub_action": "投稿了视频",
+            "pub_location_text": "",
+            "pub_time": "04月09日",
+            "pub_ts": 1744189930,
+            "type": "AUTHOR_TYPE_NORMAL",
+            "vip": {
+                "avatar_subscript": 1,
+                "avatar_subscript_url": "",
+                "due_date": 1786291200000,
+                "label": {
+                    "bg_color": "#FB7299",
+                    "bg_style": 1,
+                    "border_color": "",
+                    "img_label_uri_hans": "https://i0.hdslb.com/bfs/activity-plat/static/20220608/e369244d0b14644f5e1a06431e22a4d5/0DFy9BHgwE.gif",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d7e624d13d3e134251e4174a7318c19a8edbd71.png",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/uckjAv3Npy.png",
+                    "label_theme": "annual_vip",
+                    "path": "",
+                    "text": "年度大会员",
+                    "text_color": "#FFFFFF",
+                    "use_img_label": true
+                },
+                "nickname_color": "#FB7299",
+                "status": 1,
+                "theme_type": 0,
+                "type": 2
+            }
+        },
+        "module_dynamic": {
+            "additional": null,
+            "desc": {
+                "rich_text_nodes": [
+                    {
+                        "orig_text": "分享一下工程版的FF07，\n很久没出视频了，因为新开发的项目真的有点多。\n不知道这样的试装视频大家感不感兴趣，感兴趣的话最近其实每周都可以拍一个新产品。\n大家记得给我一键三连呀，再次感谢大家的喜欢和支持。",
+                        "text": "分享一下工程版的FF07，\n很久没出视频了，因为新开发的项目真的有点多。\n不知道这样的试装视频大家感不感兴趣，感兴趣的话最近其实每周都可以拍一个新产品。\n大家记得给我一键三连呀，再次感谢大家的喜欢和支持。",
+                        "type": "RICH_TEXT_NODE_TYPE_TEXT"
+                    }
+                ],
+                "text": "分享一下工程版的FF07，\n很久没出视频了，因为新开发的项目真的有点多。\n不知道这样的试装视频大家感不感兴趣，感兴趣的话最近其实每周都可以拍一个新产品。\n大家记得给我一键三连呀，再次感谢大家的喜欢和支持。"
+            },
+            "major": {
+                "archive": {
+                    "aid": "114307132033724",
+                    "badge": {
+                        "bg_color": "#FB7299",
+                        "color": "#FFFFFF",
+                        "icon_url": null,
+                        "text": "投稿视频"
+                    },
+                    "bvid": "BV1XSdwYkE4U",
+                    "cover": "http://i0.hdslb.com/bfs/archive/b9f9e8786d15310023775c68d023b205be974465.jpg",
+                    "desc": "分享一下工程版的FF07，\n很久没出视频了，因为新开发的项目真的有点多。\n不知道这样的试装视频大家感不感兴趣，感兴趣的话最近其实每周都可以拍一个新产品。\n大家记得给我一键三连呀，再次感谢大家的喜欢和支持。",
+                    "disable_preview": 0,
+                    "duration_text": "08:50",
+                    "jump_url": "//www.bilibili.com/video/BV1XSdwYkE4U/",
+                    "stat": {
+                        "danmaku": "290",
+                        "play": "18.6万"
+                    },
+                    "title": "ROG夜神专属装甲 Xikii Industry FF07 裸色试装",
+                    "type": 1
+                },
+                "type": "MAJOR_TYPE_ARCHIVE"
+            },
+            "topic": null
+        },
+        "module_more": {
+            "three_point_items": [
+                {
+                    "label": "举报",
+                    "type": "THREE_POINT_REPORT"
+                }
+            ]
+        },
+        "module_stat": {
+            "comment": {
+                "count": 557,
+                "forbidden": false
+            },
+            "forward": {
+                "count": 33,
+                "forbidden": false
+            },
+            "like": {
+                "count": 4315,
+                "forbidden": false,
+                "status": false
+            }
+        }
+    },
+    "type": "DYNAMIC_TYPE_AV",
+    "visible": true
+}

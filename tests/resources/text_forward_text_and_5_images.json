@@ -1,0 +1,533 @@
+{
+    "basic": {
+        "comment_id_str": "1051490083797991432",
+        "comment_type": 17,
+        "like_icon": {
+            "action_url": "",
+            "end_url": "",
+            "id": 0,
+            "start_url": ""
+        },
+        "rid_str": "1051490083797991432"
+    },
+    "id_str": "1051490083797991432",
+    "modules": {
+        "module_author": {
+            "avatar": {
+                "container_size": {
+                    "height": 1.375,
+                    "width": 1.375
+                },
+                "fallback_layers": {
+                    "is_critical_group": true,
+                    "layers": [
+                        {
+                            "general_spec": {
+                                "pos_spec": {
+                                    "axis_x": 0.6875,
+                                    "axis_y": 0.6875,
+                                    "coordinate_pos": 2
+                                },
+                                "render_spec": {
+                                    "opacity": 1
+                                },
+                                "size_spec": {
+                                    "height": 0.787,
+                                    "width": 0.787
+                                }
+                            },
+                            "layer_config": {
+                                "is_critical": true,
+                                "tags": {
+                                    "AVATAR_LAYER": {},
+                                    "GENERAL_CFG": {
+                                        "config_type": 1,
+                                        "general_config": {
+                                            "web_css_style": {
+                                                "borderRadius": "50%"
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "resource": {
+                                "res_image": {
+                                    "image_src": {
+                                        "placeholder": 6,
+                                        "remote": {
+                                            "bfs_style": "widget-layer-avatar",
+                                            "url": "https://i0.hdslb.com/bfs/face/a368127b6cef081c5a3fe492d98dc08f40326b4d.jpg"
+                                        },
+                                        "src_type": 1
+                                    }
+                                },
+                                "res_type": 3
+                            },
+                            "visible": true
+                        },
+                        {
+                            "general_spec": {
+                                "pos_spec": {
+                                    "axis_x": 0.6875,
+                                    "axis_y": 0.6875,
+                                    "coordinate_pos": 2
+                                },
+                                "render_spec": {
+                                    "opacity": 1
+                                },
+                                "size_spec": {
+                                    "height": 1.375,
+                                    "width": 1.375
+                                }
+                            },
+                            "layer_config": {
+                                "tags": {
+                                    "PENDENT_LAYER": {}
+                                }
+                            },
+                            "resource": {
+                                "res_image": {
+                                    "image_src": {
+                                        "remote": {
+                                            "bfs_style": "widget-layer-avatar",
+                                            "url": "https://i0.hdslb.com/bfs/garb/item/d8caba83a6c5d917c15436c0bead848e41a5d0b5.png"
+                                        },
+                                        "src_type": 1
+                                    }
+                                },
+                                "res_type": 3
+                            },
+                            "visible": true
+                        },
+                        {
+                            "general_spec": {
+                                "pos_spec": {
+                                    "axis_x": 0.7560000000000001,
+                                    "axis_y": 0.7726666666666667,
+                                    "coordinate_pos": 1
+                                },
+                                "render_spec": {
+                                    "opacity": 1
+                                },
+                                "size_spec": {
+                                    "height": 0.41666666666666663,
+                                    "width": 0.41666666666666663
+                                }
+                            },
+                            "layer_config": {
+                                "tags": {
+                                    "GENERAL_CFG": {
+                                        "config_type": 1,
+                                        "general_config": {
+                                            "web_css_style": {
+                                                "background-color": "rgb(255,255,255)",
+                                                "border": "2px solid rgba(255,255,255,1)",
+                                                "borderRadius": "50%",
+                                                "boxSizing": "border-box"
+                                            }
+                                        }
+                                    },
+                                    "ICON_LAYER": {}
+                                }
+                            },
+                            "resource": {
+                                "res_image": {
+                                    "image_src": {
+                                        "placeholder": 1,
+                                        "remote": {
+                                            "bfs_style": "widget-layer-avatar",
+                                            "url": "https://i0.hdslb.com/bfs/bangumi/kt/d98acde01bacc0e1f04cac59e693f91a6f59b401.png"
+                                        },
+                                        "src_type": 1
+                                    }
+                                },
+                                "res_type": 3
+                            },
+                            "visible": true
+                        }
+                    ]
+                },
+                "mid": "400861128"
+            },
+            "decoration_card": {
+                "big_card_url": "https://i0.hdslb.com/bfs/garb/item/5ebada630d1897124a9f33dd2d5c9566d02fcc72.png",
+                "card_type": 2,
+                "card_type_name": "免费",
+                "card_url": "https://i0.hdslb.com/bfs/garb/item/5ebada630d1897124a9f33dd2d5c9566d02fcc72.png",
+                "fan": {},
+                "id": 2426,
+                "image_enhance": "https://i0.hdslb.com/bfs/garb/item/5ebada630d1897124a9f33dd2d5c9566d02fcc72.png",
+                "item_id": 2426,
+                "jump_url": "https://www.bilibili.com/h5/mall/equity-link/collect-home?item_id=2426\u0026isdiy=0\u0026part=card\u0026from=post\u0026f_source=garb\u0026vmid=400861128\u0026native.theme=1\u0026navhide=1",
+                "name": "湊-阿库娅"
+            },
+            "face": "https://i0.hdslb.com/bfs/face/a368127b6cef081c5a3fe492d98dc08f40326b4d.jpg",
+            "face_nft": false,
+            "following": null,
+            "jump_url": "//space.bilibili.com/400861128/dynamic",
+            "label": "",
+            "mid": 400861128,
+            "name": "白叶笙曦",
+            "official_verify": {
+                "desc": "",
+                "type": -1
+            },
+            "pendant": {
+                "expire": 0,
+                "image": "https://i0.hdslb.com/bfs/garb/item/d8caba83a6c5d917c15436c0bead848e41a5d0b5.png",
+                "image_enhance": "https://i0.hdslb.com/bfs/garb/item/d8caba83a6c5d917c15436c0bead848e41a5d0b5.png",
+                "image_enhance_frame": "",
+                "n_pid": 2425,
+                "name": "湊-阿库娅",
+                "pid": 2425
+            },
+            "pub_action": "",
+            "pub_location_text": "",
+            "pub_time": "04月03日",
+            "pub_ts": 1743657513,
+            "type": "AUTHOR_TYPE_NORMAL",
+            "vip": {
+                "avatar_subscript": 1,
+                "avatar_subscript_url": "",
+                "due_date": 1758211200000,
+                "label": {
+                    "bg_color": "#FB7299",
+                    "bg_style": 1,
+                    "border_color": "",
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/bangumi/kt/c73647619d3264636aa8e8ee89fad0ad38ae7dab.png",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png",
+                    "label_theme": "annual_vip",
+                    "path": "",
+                    "text": "年度大会员",
+                    "text_color": "#FFFFFF",
+                    "use_img_label": true
+                },
+                "nickname_color": "#FB7299",
+                "status": 1,
+                "theme_type": 0,
+                "type": 2
+            }
+        },
+        "module_dynamic": {
+            "additional": null,
+            "desc": {
+                "rich_text_nodes": [
+                    {
+                        "emoji": {
+                            "icon_url": "https://i0.hdslb.com/bfs/garb/72dbebc3ebd68f639b8b70952af18cf778abdd03.png",
+                            "size": 2,
+                            "text": "[电影间谍过家家_10哇库哇库]",
+                            "type": 3
+                        },
+                        "orig_text": "[电影间谍过家家_10哇库哇库]",
+                        "text": "[电影间谍过家家_10哇库哇库]",
+                        "type": "RICH_TEXT_NODE_TYPE_EMOJI"
+                    },
+                    {
+                        "emoji": {
+                            "icon_url": "https://i0.hdslb.com/bfs/garb/72dbebc3ebd68f639b8b70952af18cf778abdd03.png",
+                            "size": 2,
+                            "text": "[电影间谍过家家_10哇库哇库]",
+                            "type": 3
+                        },
+                        "orig_text": "[电影间谍过家家_10哇库哇库]",
+                        "text": "[电影间谍过家家_10哇库哇库]",
+                        "type": "RICH_TEXT_NODE_TYPE_EMOJI"
+                    },
+                    {
+                        "emoji": {
+                            "icon_url": "https://i0.hdslb.com/bfs/garb/72dbebc3ebd68f639b8b70952af18cf778abdd03.png",
+                            "size": 2,
+                            "text": "[电影间谍过家家_10哇库哇库]",
+                            "type": 3
+                        },
+                        "orig_text": "[电影间谍过家家_10哇库哇库]",
+                        "text": "[电影间谍过家家_10哇库哇库]",
+                        "type": "RICH_TEXT_NODE_TYPE_EMOJI"
+                    }
+                ],
+                "text": "[电影间谍过家家_10哇库哇库][电影间谍过家家_10哇库哇库][电影间谍过家家_10哇库哇库]"
+            },
+            "major": null,
+            "topic": null
+        },
+        "module_more": {
+            "three_point_items": [
+                {
+                    "label": "举报",
+                    "type": "THREE_POINT_REPORT"
+                }
+            ]
+        },
+        "module_stat": {
+            "comment": {
+                "count": 0,
+                "forbidden": false
+            },
+            "forward": {
+                "count": 0,
+                "forbidden": false
+            },
+            "like": {
+                "count": 30,
+                "forbidden": false,
+                "status": false
+            }
+        }
+    },
+    "orig": {
+        "basic": {
+            "comment_id_str": "",
+            "comment_type": 0,
+            "jump_url": "//www.bilibili.com/opus/1051191695270477848",
+            "like_icon": {
+                "action_url": "",
+                "end_url": "",
+                "id": 0,
+                "start_url": ""
+            },
+            "rid_str": ""
+        },
+        "id_str": "1051191695270477848",
+        "modules": {
+            "module_author": {
+                "avatar": {
+                    "container_size": {
+                        "height": 1.375,
+                        "width": 1.375
+                    },
+                    "fallback_layers": {
+                        "is_critical_group": true,
+                        "layers": [
+                            {
+                                "general_spec": {
+                                    "pos_spec": {
+                                        "axis_x": 0.6875,
+                                        "axis_y": 0.6875,
+                                        "coordinate_pos": 2
+                                    },
+                                    "render_spec": {
+                                        "opacity": 1
+                                    },
+                                    "size_spec": {
+                                        "height": 0.787,
+                                        "width": 0.787
+                                    }
+                                },
+                                "layer_config": {
+                                    "is_critical": true,
+                                    "tags": {
+                                        "AVATAR_LAYER": {},
+                                        "GENERAL_CFG": {
+                                            "config_type": 1,
+                                            "general_config": {
+                                                "web_css_style": {
+                                                    "borderRadius": "50%"
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "resource": {
+                                    "res_image": {
+                                        "image_src": {
+                                            "placeholder": 6,
+                                            "remote": {
+                                                "bfs_style": "widget-layer-avatar",
+                                                "url": "https://i0.hdslb.com/bfs/face/f17654fdda12c7fe0823952b9b936f05dd8efdcb.jpg"
+                                            },
+                                            "src_type": 1
+                                        }
+                                    },
+                                    "res_type": 3
+                                },
+                                "visible": true
+                            },
+                            {
+                                "general_spec": {
+                                    "pos_spec": {
+                                        "axis_x": 0.6875,
+                                        "axis_y": 0.6875,
+                                        "coordinate_pos": 2
+                                    },
+                                    "render_spec": {
+                                        "opacity": 1
+                                    },
+                                    "size_spec": {
+                                        "height": 1.375,
+                                        "width": 1.375
+                                    }
+                                },
+                                "layer_config": {
+                                    "tags": {
+                                        "PENDENT_LAYER": {}
+                                    }
+                                },
+                                "resource": {
+                                    "res_image": {
+                                        "image_src": {
+                                            "remote": {
+                                                "bfs_style": "widget-layer-avatar",
+                                                "url": "https://i0.hdslb.com/bfs/garb/item/d8f6dec3bd0bcdb09fcfd99fba620aa7da91dd8e.png"
+                                            },
+                                            "src_type": 1
+                                        }
+                                    },
+                                    "res_type": 3
+                                },
+                                "visible": true
+                            }
+                        ]
+                    },
+                    "mid": "9871569"
+                },
+                "decoration_card": {
+                    "big_card_url": "https://i0.hdslb.com/bfs/garb/a166d49f38302874836f9b0308d281acbc1e5d71.png",
+                    "card_type": 2,
+                    "card_type_name": "免费",
+                    "card_url": "https://i0.hdslb.com/bfs/garb/a166d49f38302874836f9b0308d281acbc1e5d71.png",
+                    "fan": {
+                        "color": "#A63B47",
+                        "color_format": {
+                            "colors": [
+                                "#A63B47FF",
+                                "#A63B47FF"
+                            ],
+                            "end_point": "0,100",
+                            "gradients": [
+                                0,
+                                100
+                            ],
+                            "start_point": "0,0"
+                        },
+                        "is_fan": 1,
+                        "name": "碧蓝航线礼服主题",
+                        "num_desc": "007183",
+                        "number": 7183
+                    },
+                    "id": 1690185158001,
+                    "image_enhance": "https://i0.hdslb.com/bfs/garb/a166d49f38302874836f9b0308d281acbc1e5d71.png",
+                    "item_id": 1690185158001,
+                    "jump_url": "https://www.bilibili.com/h5/mall/equity-link/collect-home?item_id=1690185158001\u0026isdiy=0\u0026part=card\u0026from=post\u0026f_source=garb\u0026vmid=9871569\u0026native.theme=1\u0026navhide=1",
+                    "name": "碧蓝航线礼服主题-动态卡片粉丝"
+                },
+                "face": "https://i0.hdslb.com/bfs/face/f17654fdda12c7fe0823952b9b936f05dd8efdcb.jpg",
+                "face_nft": false,
+                "following": null,
+                "jump_url": "//space.bilibili.com/9871569/dynamic",
+                "label": "",
+                "mid": 9871569,
+                "name": "小逝lullaby",
+                "official_verify": {
+                    "desc": "",
+                    "type": -1
+                },
+                "pendant": {
+                    "expire": 0,
+                    "image": "https://i0.hdslb.com/bfs/garb/item/d8f6dec3bd0bcdb09fcfd99fba620aa7da91dd8e.png",
+                    "image_enhance": "https://i0.hdslb.com/bfs/garb/item/d8f6dec3bd0bcdb09fcfd99fba620aa7da91dd8e.png",
+                    "image_enhance_frame": "",
+                    "n_pid": 3057,
+                    "name": "还有醒着的么",
+                    "pid": 3057
+                },
+                "pub_action": "",
+                "pub_time": "",
+                "pub_ts": 1743588039,
+                "type": "AUTHOR_TYPE_NORMAL",
+                "vip": {
+                    "avatar_subscript": 0,
+                    "avatar_subscript_url": "",
+                    "due_date": 1710000000000,
+                    "label": {
+                        "bg_color": "",
+                        "bg_style": 0,
+                        "border_color": "",
+                        "img_label_uri_hans": "",
+                        "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/d7b702ef65a976b20ed854cbd04cb9e27341bb79.png",
+                        "img_label_uri_hant": "",
+                        "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/KJunwh19T5.png",
+                        "label_theme": "",
+                        "path": "",
+                        "text": "",
+                        "text_color": "",
+                        "use_img_label": true
+                    },
+                    "nickname_color": "",
+                    "status": 0,
+                    "theme_type": 0,
+                    "type": 1
+                }
+            },
+            "module_dynamic": {
+                "additional": null,
+                "desc": null,
+                "major": {
+                    "opus": {
+                        "fold_action": [
+                            "展开",
+                            "收起"
+                        ],
+                        "jump_url": "//www.bilibili.com/opus/1051191695270477848",
+                        "pics": [
+                            {
+                                "height": 1754,
+                                "live_url": null,
+                                "size": 1357.7021484375,
+                                "url": "http://i0.hdslb.com/bfs/new_dyn/359c4e0769a2113c161f43462f457ef19871569.jpg",
+                                "width": 1036
+                            },
+                            {
+                                "height": 1581,
+                                "live_url": null,
+                                "size": 957.0283203125,
+                                "url": "http://i0.hdslb.com/bfs/new_dyn/07fd2f037d1e29d6a1c5bff3137fb08a9871569.jpg",
+                                "width": 1061
+                            },
+                            {
+                                "height": 864,
+                                "live_url": null,
+                                "size": 1525.2763671875,
+                                "url": "http://i0.hdslb.com/bfs/new_dyn/bcccb66381344cc09abb81332521a1509871569.jpg",
+                                "width": 1536
+                            },
+                            {
+                                "height": 994,
+                                "live_url": null,
+                                "size": 1324.658203125,
+                                "url": "http://i0.hdslb.com/bfs/new_dyn/7d3b5b1202fc82632234836c38cbbf499871569.jpg",
+                                "width": 1766
+                            },
+                            {
+                                "height": 750,
+                                "live_url": null,
+                                "size": 581.208984375,
+                                "url": "http://i0.hdslb.com/bfs/new_dyn/0bdc598b9c17c02789047968f4b758469871569.jpg",
+                                "width": 750
+                            }
+                        ],
+                        "summary": {
+                            "rich_text_nodes": [
+                                {
+                                    "orig_text": "又来抽奖了，这次关注+转评就可以参与啦！\n50转抽一个人画头像，\n500转升级为半身竖插。\n\n抽奖只画有设定图的角色，4月25日开。\n\n稿子的话是可以接文字设的w~\n接头像、插画、live2D稿件啦~（感觉好像一直在画兔耳和白丝，再来点也可以w，别的也可以啦) \n（4月还可以接一张，之后就是5月了）\n\n放点最近的画儿热闹一下~",
+                                    "text": "又来抽奖了，这次关注+转评就可以参与啦！\n50转抽一个人画头像，\n500转升级为半身竖插。\n\n抽奖只画有设定图的角色，4月25日开。\n\n稿子的话是可以接文字设的w~\n接头像、插画、live2D稿件啦~（感觉好像一直在画兔耳和白丝，再来点也可以w，别的也可以啦) \n（4月还可以接一张，之后就是5月了）\n\n放点最近的画儿热闹一下~",
+                                    "type": "RICH_TEXT_NODE_TYPE_TEXT"
+                                }
+                            ],
+                            "text": "又来抽奖了，这次关注+转评就可以参与啦！\n50转抽一个人画头像，\n500转升级为半身竖插。\n\n抽奖只画有设定图的角色，4月25日开。\n\n稿子的话是可以接文字设的w~\n接头像、插画、live2D稿件啦~（感觉好像一直在画兔耳和白丝，再来点也可以w，别的也可以啦) \n（4月还可以接一张，之后就是5月了）\n\n放点最近的画儿热闹一下~"
+                        },
+                        "title": "​💖 【关注+转评，抽奖画头像】"
+                    },
+                    "type": "MAJOR_TYPE_OPUS"
+                },
+                "topic": null
+            }
+        },
+        "type": "DYNAMIC_TYPE_DRAW",
+        "visible": true
+    },
+    "type": "DYNAMIC_TYPE_FORWARD",
+    "visible": true
+}
