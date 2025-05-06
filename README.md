@@ -35,13 +35,18 @@ python -m unittest
 ## License
 
 Licensed under the GNU General Public License v3.
+
 Full text: [LICENSE](LICENSE)
 
 ## Attribution
 
 * bac0id/save-page-now-api
+
     License: GNU General Public License v3
+
     https://github.com/bac0id/save-page-now-api
 * Nemo2011/bilibili-api
+
     License: GNU General Public License v3 or later
+
     https://github.com/Nemo2011/bilibili-api
