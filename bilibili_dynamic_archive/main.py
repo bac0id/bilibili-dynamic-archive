@@ -51,9 +51,9 @@ def save_urls(urls) -> list:
             print(f"Saving {url}")
             is_successfully_saved = save_url(url, archiver)
             if is_successfully_saved:
-                print(f"Saved {url}")
+                print(f"Saved")
             else:
-                print(f"Failed {url}")
+                print(f"Failed")
                 failed_urls.append(url)
             time.sleep(4)
 
